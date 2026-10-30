@@ -1,0 +1,1 @@
+//telas face id-1 (captura) e face id-2 (autenticando) entram aqui, antes da confirmação
